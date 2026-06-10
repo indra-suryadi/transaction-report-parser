@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-sample_data/*.raw
-sample_data/*.txt
-sample_data/consolidated_report.xlsx
