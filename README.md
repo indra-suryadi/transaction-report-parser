@@ -49,8 +49,9 @@ python generate_sample_data.py
 # 2. Run the parser
 python parse_transactions.py
 
-# Output: See `example_output.xlsx` in this repository for a sample of the generated report.
+# Output: sample_data/consolidated_report.xlsx
 ```
+See `example_output.xlsx` in this repository for a sample of the generated report.
 
 Options:
 
